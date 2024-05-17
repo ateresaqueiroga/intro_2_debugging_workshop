@@ -1,1 +1,2 @@
-# intro_2_debugging_workshop
+# Introducing Debugging 
+## Unveiling the Power of Code Inspection
