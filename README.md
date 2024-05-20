@@ -1,6 +1,6 @@
 # Introducing Debugging 
 ## Unveiling the Power of Code Inspection
-⏱️ Image credits - https://www.monkeyuser.com/2018/root-cause/
+Image credits - https://www.monkeyuser.com/2018/root-cause/
 <img src="https://www.monkeyuser.com/2018/root-cause/92-root-cause.png" alt="drawing" width="600"/>
 
 This repository contains the resources used during the <b>"Introducing Debugging - Unveiling the Power of Code Inspection"</b> workshop, hosted on May 23rd of 2024, during Research Club, at the [Center for Music in the Brain (MIB)](https://musicinthebrain.au.dk) - Aarhus University.
@@ -58,14 +58,14 @@ The error message "ValueError: The truth value of a Series is ambiguous" occurs 
 
 ### IDE Versions at the time of the workshop
 <p>Visual Studio Code  - Version: 1.72.2 (Universal)</p>
-Spyder              - 5.5.4 eca9916d1 (standalone)
-MATLAB              - R2022b
-RStudio             - RStudio 2022.07.2+576 "Spotted Wakerobin" Release
+<p>Spyder                 - 5.5.4 eca9916d1 (standalone)</p>
+<p>MATLAB                 - R2022b</p>
+<p>RStudio                - RStudio 2022.07.2+576 "Spotted Wakerobin" Release</p>
 
 ### Other info
 <p>Operating System    - macOS-14.4.1-arm64-arm-64bit</p>
-Python version      - 3.10.11 64-bit
-R version           - 4.2.2 (2022-10-31)
+<p>Python version         - 3.10.11 64-bit</p>
+<p>R version              - 4.2.2 (2022-10-31)</p>
 
 ----
 👩‍💻 Ana Teresa Queiroga, 2024  
