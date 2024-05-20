@@ -3,7 +3,7 @@
 Image credits - https://www.monkeyuser.com/2018/root-cause/
 <img src="https://www.monkeyuser.com/2018/root-cause/92-root-cause.png" alt="drawing" width="600"/>
 
-<p>This repository contains the resources used during the <b>"Introducing Debugging - Unveiling the Power of Code Inspection"</b> workshop, hosted on May 23rd of 2024, during Research Club, at the [Center for Music in the Brain (MIB)](https://musicinthebrain.au.dk) - Aarhus University.</p>
+This repository contains the resources used during the <b>"Introducing Debugging - Unveiling the Power of Code Inspection"</b> workshop, hosted on May 23rd of 2024, during Research Club, at the [Center for Music in the Brain (MIB)](https://musicinthebrain.au.dk) - Aarhus University.
 
 The main goal of the workshop was to show how to activate the debugging mode and set visual breakpoints in different IDEs (specifically Visual Studio Code, MATLAB environment, Spyder and JupyterLab). 
 
