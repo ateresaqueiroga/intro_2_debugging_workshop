@@ -46,6 +46,10 @@ The script is designed to illustrate how logical errors can affect data visualiz
 This case demonstrates a bug in generating a scatter plot. The bug arises from a logical error in attempting to highlight certain points on the plot.
 
 ## Case 5
+This example demonstrates a common error encountered when filtering [Pandas](https://pandas.pydata.org/getting_started.html) DataFrames using logical operators such as 'and' and 'or', implemented in [JupyterLab](https://jupyterlab.readthedocs.io/en/latest/index.html). 
+
+<b>Problem Description</b>
+The error message "ValueError: The truth value of a Series is ambiguous" occurs due to improper usage of logical operators. The error arises when attempting to filter a DataFrame based on multiple conditions using the 'and' operator. In this case, the conditions are applied to different columns of the DataFrame. The incorrect usage of 'and' with Pandas Series results in the ambiguity of the truth value, leading to the ValueError.
 
 ---------
 
