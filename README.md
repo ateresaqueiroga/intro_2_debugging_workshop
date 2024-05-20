@@ -1,6 +1,6 @@
 # Introducing Debugging 
 ## Unveiling the Power of Code Inspection
-<img src="https://www.monkeyuser.com/2018/root-cause/92-root-cause.png" alt="drawing" width="80"/>
+<img src="https://www.monkeyuser.com/2018/root-cause/92-root-cause.png" alt="drawing" width="300"/>
 
 Resources used during the "Introducing Debugging - Unveiling the Power of Code Inspection" workshop, hosted on May 23rd of 2024, during Research club, at the Center for Music in the Brain (MIB) - Aarhus University.
 
