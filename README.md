@@ -5,16 +5,19 @@ Resources used during the "Introducing Debugging - Unveiling the Power of Code I
 ## Case 1
 [MATLAB](https://se.mathworks.com/products/matlab.html) script that categorizes participants into age groups based on their ages and then displays each participant's age along with their corresponding age group. To be run in MATLAB's environment. 
 
-<b>Problem Description<b>
+<b>Problem Description</b>
+
 The script aims to iterate through a list of participants' ages and assign each participant to one of three age groups: 'young', 'adult', or 'old', according to predefined age group boundaries. However, the script is failing to categorize participants accurately, leading to incorrect age group assignments.
 
 
 ## Case 2
 Debugging example to be run in [Spyder](https://www.spyder-ide.org/), a popular integrated development environment (IDE) for Python. This case involves debugging a logical bug that occurs within multiple functions invoked in a Python script.
 
-<b>Problem Description<b>
+<b>Problem Description</b>
+
 In this scenario, we have a Python script with multiple functions spread across different files. The bug is not evident in the global variable scope but resides within one of the function scopes, making it challenging to identify. The script performs complex mathematical operations and file handling tasks.
-Folder Structure
+
+<b>Folder Structure</b>
 
 The repository follows a structured organization to facilitate debugging and comprehension:
 
