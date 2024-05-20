@@ -1,4 +1,4 @@
-# main_script_case_2_bug_v0_atq.py
+# main_script_case_2_bug_atq.py
 #
 # This script demonstrates the use of utility functions for mathematical operations and file handling.
 #

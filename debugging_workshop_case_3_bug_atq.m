@@ -1,4 +1,4 @@
-% debugging_workshop_case_3_bug_v0
+% debugging_workshop_case_3_bug_atq
 %
 % This script categorizes participants into age groups based on their ages.
 % 
