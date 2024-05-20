@@ -1,5 +1,6 @@
 # Introducing Debugging 
 ## Unveiling the Power of Code Inspection
+![Alt Text](https://www.monkeyuser.com/2018/root-cause/92-root-cause.png)
 Resources used during the "Introducing Debugging - Unveiling the Power of Code Inspection" workshop, hosted on May 23rd of 2024, during Research club, at the Center for Music in the Brain (MIB) - Aarhus University.
 
 The main goal of the workshop was to show how to activate the debugging mode and set visual breakpoints in different IDEs (specifically Visual Studio Code, MATLAB environment, Spyder and JupyterLab). 
