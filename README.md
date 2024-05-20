@@ -13,14 +13,14 @@ The 5 cases of bugs are explained more in detail below.
 Python script used to code an experiment using PsychoPy - to be run in [Visual Studio Code](https://code.visualstudio.com/). 
 
 <b>Problem Description</b>
-This script is part of a [PsychoPy](https://www.psychopy.org/) experiment where a fixation cross is supposed to be displayed during certain phases of the trial. Due to an indentation error, the fixation cross does not appear as expected during the 'listen' phase.
+<p>This script is part of a [PsychoPy](https://www.psychopy.org/) experiment where a fixation cross is supposed to be displayed during certain phases of the trial. Due to an indentation error, the fixation cross does not appear as expected during the 'listen' phase.</p>
 
 
 ## Case 2
 Debugging example to be run in [Spyder](https://www.spyder-ide.org/), a popular integrated development environment (IDE) for Python. This case involves debugging a logical bug that occurs within multiple functions invoked in a Python script.
 
 <b>Problem Description</b>
-In this scenario, we have a Python script with multiple functions spread across different files. The bug is not evident in the global variable scope but resides within one of the function scopes, making it challenging to identify. The script performs complex mathematical operations and file handling tasks.
+<p>In this scenario, we have a Python script with multiple functions spread across different files. The bug is not evident in the global variable scope but resides within one of the function scopes, making it challenging to identify. The script performs complex mathematical operations and file handling tasks.</p>
 
 <b>Folder Structure</b>
 
@@ -50,10 +50,10 @@ This case demonstrates a bug in generating a scatter plot. The bug arises from a
 ---------
 
 ### IDE Versions at the time of the workshop
-Visual Studio Code  - Version: 1.72.2 (Universal)
-Spyder              - 5.5.4 eca9916d1 (standalone)
-MATLAB              - R2022b
-RStudio             - RStudio 2022.07.2+576 "Spotted Wakerobin" Release 
+<p>Visual Studio Code  - Version: 1.72.2 (Universal)</p>
+<p>Spyder              - 5.5.4 eca9916d1 (standalone)</p>
+<p>MATLAB              - R2022b</p>
+<p>RStudio             - RStudio 2022.07.2+576 "Spotted Wakerobin" Release</p> 
 
 ### Other info
 Operating System    - macOS-14.4.1-arm64-arm-64bit
