@@ -56,14 +56,12 @@ The error message "ValueError: The truth value of a Series is ambiguous" occurs 
 
 ---------
 
-### IDE Versions at the time of the workshop
-<p>Visual Studio Code  - Version: 1.72.2 (Universal)</p>
+### Versions at the time of the workshop
+<p>Visual Studio Code     - Version: 1.72.2 (Universal)</p>
 <p>Spyder                 - 5.5.4 eca9916d1 (standalone)</p>
 <p>MATLAB                 - R2022b</p>
 <p>RStudio                - RStudio 2022.07.2+576 "Spotted Wakerobin" Release</p>
-
-### Other info
-<p>Operating System    - macOS-14.4.1-arm64-arm-64bit</p>
+<p>Operating System       - macOS-14.4.1-arm64-arm-64bit</p>
 <p>Python version         - 3.10.11 64-bit</p>
 <p>R version              - 4.2.2 (2022-10-31)</p>
 
