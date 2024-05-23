@@ -67,7 +67,7 @@ The error message "ValueError: The truth value of a Series is ambiguous" occurs 
 
 ----
 👩‍💻 Ana Teresa Queiroga, 2024  
-📧 a.teresa.queiroga@clin.au.dk  
+📧 a.teresa.queiroga@clin.au.dk | ateresaqueiroga@gmail.com 
 🏢 PhD student at the Department of Clinical Medicine, Center for Music in the Brain  
 🎓 Aarhus University, Denmark
 
