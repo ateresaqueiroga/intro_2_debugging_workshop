@@ -66,10 +66,10 @@ The error message "ValueError: The truth value of a Series is ambiguous" occurs 
 <p>R version              - 4.2.2 (2022-10-31)</p>
 
 ----
-👩‍💻 Ana Teresa Queiroga, 2024  
-📧 a.teresa.queiroga@clin.au.dk | ateresaqueiroga@gmail.com 
-🏢 PhD student at the Department of Clinical Medicine, Center for Music in the Brain  
-🎓 Aarhus University, Denmark
+<p>👩‍💻 Ana Teresa Queiroga, 2024</p>
+<p>📧 a.teresa.queiroga@clin.au.dk | ateresaqueiroga@gmail.com</p>
+<p>🏢 PhD student at the Department of Clinical Medicine, Center for Music in the Brain</p>
+<p>🎓 Aarhus University, Denmark</p>
 
 
 
